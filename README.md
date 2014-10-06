@@ -7,9 +7,7 @@ Installation
 ------------
 
 ```
-$ git clone https://github.com/unclejack/image-checker.git
-$ cd image-checker
-$ go build 
+$ go get github.com/unclejack/image-checker
 ```
 
 Usage
